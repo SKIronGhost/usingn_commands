@@ -1,0 +1,17 @@
+xdg-open	Is the correct command to open a file in linux
+
+sudo		Execute a command with superuser privileges
+
+top		List actively running processes
+		(CTRL+C or q to exit)
+
+clear		Clear the Terminal screen of all previous commands
+
+help "command"	Get help for a command
+
+whatis "command" Get one-line description for a command
+
+man "command"	Show manual page for a command
+
+script name_file.txt	Start to save your terminal log
+			(Use exit command to stop recording)			
